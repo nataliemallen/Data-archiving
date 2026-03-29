@@ -1,0 +1,5 @@
+/scratch/gautschi/allen715/gray_whales/bams/whale1.bam
+/scratch/gautschi/allen715/gray_whales/bams/whale2.bam
+/scratch/gautschi/allen715/gray_whales/bams/whale3.bam
+/scratch/gautschi/allen715/gray_whales/bams/whale4.bam
+/scratch/gautschi/allen715/gray_whales/bams/whale5.bam
